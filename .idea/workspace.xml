@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_proxytoys_proxytoys_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_usb_usb_api_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_6_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_6_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_6_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_morphia_morphia_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_linux_arm_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_linux_x86_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_linux_x86_64_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_osx_x86_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_osx_x86_64_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_windows_x86_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_libusb4java_windows_x86_64_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_usb4java_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_usb4java_usb4java_javax_1_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mongo_java_driver_3_6_3_javadoc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mongo_java_driver_3_6_3_javadoc_.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PotidaiaProject.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Context.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/AddInvoiceController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/AddProductController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/AddSupplierController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/EditProductController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/LackOfProductsController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/MainController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/PaySupplierController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/SearchProductController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Controllers/SuppliersController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/DatabaseHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Models/Invoice.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Models/Product.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Models/Receipt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/Models/Supplier.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/libs/comm.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/libs/mongo-java-driver-3.6.3-javadoc.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/libs/rxtxcomm-2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Css/stylesheet.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/add_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/add_invoice_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/add_supplier_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/cashier-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/edit_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/list_icon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/pay_supplier_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/search_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/statistics-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/supplier-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Images/supplier_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/addInvoice.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/addProduct.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/addSupplier.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/editProduct.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/lackOfProducts.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/main.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/paySupplier.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/searchProduct.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/Views/suppliers.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Css/stylesheet.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/add_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/add_invoice_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/add_supplier_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/cashier-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/edit_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/list_icon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/pay_supplier_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/search_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/statistics-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/supplier-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Images/supplier_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/addInvoice.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/addProduct.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/addSupplier.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/editProduct.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/lackOfProducts.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/main.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/paySupplier.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/searchProduct.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Views/suppliers.fxml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Context.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddInvoiceController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddInvoiceController$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddInvoiceController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddProductController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddProductController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddSupplierController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/AddSupplierController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/EditProductController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/LackOfProductsController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$12.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$13.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$6.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$7.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController$9.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/MainController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/PaySupplierController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/PaySupplierController$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/PaySupplierController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SearchProductController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SearchProductController$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SearchProductController$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SearchProductController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SuppliersController$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SuppliersController$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SuppliersController$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SuppliersController$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Controllers/SuppliersController.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/DatabaseHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Models/Invoice.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Models/Product.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Models/Receipt.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/Models/Supplier.class" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PotidaiaProject$Main.coverage" NAME="Main Coverage Results" MODIFIED="1522936479939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Receipt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Receipt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Supplier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Supplier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="139" column="94" lean-forward="false" selection-start-line="139" selection-start-column="94" selection-end-line="139" selection-end-column="94" />
+              <folding>
+                <element signature="class#2126:2791" expanded="false" />
+                <element signature="class#3121:3792" expanded="false" />
+                <element signature="class#4133:4809" expanded="false" />
+                <element signature="method#createCashierTableView#0;class#MainController#0" expanded="false" />
+                <element signature="method#createCashierNumPadsButtons#0;class#MainController#0" expanded="false" />
+                <element signature="method#createOtherDrawerButtons#0;class#MainController#0" expanded="false" />
+                <element signature="class#8529:8709" expanded="false" />
+                <element signature="e#8631#8632#0" expanded="true" />
+                <element signature="e#8698#8699#0" expanded="true" />
+                <element signature="class#9203:9987" expanded="false" />
+                <element signature="class#10236:11443" expanded="false" />
+                <element signature="method#addTabsImages#0;class#MainController#0" expanded="false" />
+                <element signature="method#createInsertGridPane#0;class#MainController#0" expanded="false" />
+                <element signature="class#15117:15350" expanded="false" />
+                <element signature="class#15585:15818" expanded="false" />
+                <element signature="e#16243#16244#0" expanded="true" />
+                <element signature="e#16287#16288#0" expanded="true" />
+                <element signature="method#isBarcodeCorrect#0;class#MainController#0" expanded="false" />
+                <element signature="method#isNumber#0;class#MainController#0" expanded="false" />
+                <element signature="method#addToBasket#0;class#MainController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lackOfProducts.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Views/lackOfProducts.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LackOfProductsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/LackOfProductsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="23" column="76" lean-forward="false" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2394">
+              <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_icon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Images/add_icon.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/Views/main.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1854">
+              <caret line="111" column="13" lean-forward="false" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+              <folding>
+                <element signature="n#Tab#1;n#tabs#0;n#TabPane#0;n#!!top" expanded="false" />
+                <element signature="n#Tab#2;n#tabs#0;n#TabPane#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controllers/MainController.java" />
+        <option value="$PROJECT_DIR$/src/sample/DatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/addProduct.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/TableObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/CashInvoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/OnAccountInvoice.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/addSupplier.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/addInvoice.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/paySupplier.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/suppliers.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/editProduct.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/PaySupplierController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/AddSupplierController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/AddProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/EditProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/AddInvoiceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/SuppliersController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/deleteProduct.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/DeletProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/searchProduct.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/SearchProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/ScanHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/main.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Views/lackOfProducts.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/Invoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/Receipt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/Supplier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/DatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Controllers/LackOfProductsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Models/Product.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PotidaiaProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PotidaiaProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1" />
+    <option name="width" value="903" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PotidaiaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PotidaiaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sample/libs/rxtxcomm-2.2.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/Views" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/sample/Images" />
+      <recent name="$PROJECT_DIR$/src/sample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Images" />
+      <recent name="$PROJECT_DIR$/src/main/java/sample/libs" />
+      <recent name="$PROJECT_DIR$/src/sample/libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PotidaiaProject" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaFxApplication" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaFxApplication" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaFxApplication" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JavaFxApplication" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="736" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32305196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26963747" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/PotidaiaProject.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Images/supplier-icon.png" />
+    <entry file="jrt:///usr/lib/jvm/java-9-oracle!/jdk.internal.vm.compiler/org/graalvm/compiler/hotspot/phases/AheadOfTimeVerificationPhase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Views/editProduct.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/TableObject.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/morphia/morphia/1.3.2/morphia-1.3.2.jar!/org/mongodb/morphia/mapping/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="230" column="0" lean-forward="false" selection-start-line="230" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/morphia/morphia/1.3.2/morphia-1.3.2.jar!/org/mongodb/morphia/DatastoreImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/morphia/morphia/1.3.2/morphia-1.3.2.jar!/org/mongodb/morphia/query/FieldEndImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.6.3/mongodb-driver-3.6.3.jar!/org/bson/BasicBSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.6.3/mongodb-driver-3.6.3.jar!/com/mongodb/BasicDBObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/morphia/morphia/1.3.2/morphia-1.3.2.jar!/org/mongodb/morphia/query/FindOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/morphia/morphia/1.3.2/morphia-1.3.2.jar!/org/mongodb/morphia/query/QueryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="661" column="0" lean-forward="false" selection-start-line="661" selection-start-column="0" selection-end-line="661" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/javafx.base/javafx/beans/property/BooleanPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/javafx.graphics/javafx/stage/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/CashInvoice.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/OnAccountInvoice.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/addProduct.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/jdk/internal/org/objectweb/asm/util/TraceFieldVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/addSupplier.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="123" lean-forward="false" selection-start-line="8" selection-start-column="123" selection-end-line="8" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Images/pay_supplier_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/paySupplier.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="261" lean-forward="false" selection-start-line="7" selection-start-column="261" selection-end-line="7" selection-end-column="261" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/suppliers.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" column="136" lean-forward="false" selection-start-line="8" selection-start-column="136" selection-end-line="8" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/editProduct.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/addInvoice.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/AddSupplierController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="120" column="21" lean-forward="false" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#isNumber#0;class#AddSupplierController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/EditProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="177" column="75" lean-forward="true" selection-start-line="177" selection-start-column="75" selection-end-line="177" selection-end-column="75" />
+          <folding>
+            <element signature="method#createTextsOnEditProductForm#0;class#EditProductController#0" expanded="false" />
+            <element signature="method#createChoiceBoxesOnEditProductForm#0;class#EditProductController#0" expanded="false" />
+            <element signature="method#createSearchArea#0;class#EditProductController#0" expanded="false" />
+            <element signature="e#34552#34560#0" expanded="false" />
+            <element signature="method#isBarcodeCorrect#0;class#EditProductController#0" expanded="false" />
+            <element signature="method#isNumber#0;class#EditProductController#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#EditProductController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/PaySupplierController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="142" column="97" lean-forward="false" selection-start-line="142" selection-start-column="97" selection-end-line="142" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="class#2654:3466" expanded="false" />
+            <element signature="method#isNumber#0;class#PaySupplierController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/deleteProduct.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/DeletProductController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/searchProduct.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="75" lean-forward="false" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/ScanHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/AddInvoiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#createLabelsOnAddInvoiceForm#0;class#AddInvoiceController#0" expanded="false" />
+            <element signature="method#createInsertControllssonAddInvoiceForm#0;class#AddInvoiceController#0" expanded="false" />
+            <element signature="class#2934:3746" expanded="false" />
+            <element signature="method#isNumber#0;class#AddInvoiceController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/SuppliersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/AddProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" column="66" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <element signature="method#createLabelsOnAddProductForm#0;class#AddProductController#0" expanded="false" />
+            <element signature="method#createTextFieldsOnProductForm#0;class#AddProductController#0" expanded="false" />
+            <element signature="method#createChoiceBoxesOnAddProductForm#0;class#AddProductController#0" expanded="false" />
+            <element signature="method#allFieldsAreNotEmpty#0;class#AddProductController#0" expanded="false" />
+            <element signature="e#10352#10353#0" expanded="false" />
+            <element signature="e#10406#10407#0" expanded="false" />
+            <element signature="e#10469#10470#0" expanded="false" />
+            <element signature="e#10524#10525#0" expanded="false" />
+            <element signature="method#isNumber#0;class#AddProductController#0" expanded="false" />
+            <element signature="e#10815#10816#0" expanded="false" />
+            <element signature="e#10871#10872#0" expanded="false" />
+            <element signature="e#10930#10931#0" expanded="false" />
+            <element signature="e#10990#10991#0" expanded="false" />
+            <element signature="method#clearForm#0;class#AddProductController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-9-oracle/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/SearchProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="51" column="65" lean-forward="false" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
+          <folding>
+            <element signature="class#1583:1743" expanded="false" />
+            <element signature="e#1685#1686#0" expanded="false" />
+            <element signature="e#1732#1733#0" expanded="false" />
+            <element signature="class#1838:4654" expanded="false" />
+            <element signature="method#createSearchArea#0;class#SearchProductController#0" expanded="false" />
+            <element signature="class#5000:5235" expanded="false" />
+            <element signature="method#isEmpty#0;class#SearchProductController#0" expanded="false" />
+            <element signature="method#isBarcodeCorrect#0;class#SearchProductController#0" expanded="false" />
+            <element signature="method#isNumber#0;class#SearchProductController#0" expanded="false" />
+            <element signature="method#searchProduct#0;class#SearchProductController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/DatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="107" column="34" lean-forward="false" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Images/list_icon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Receipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/lackOfProducts.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/LackOfProductsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="76" lean-forward="false" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Models/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Images/add_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Views/main.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1854">
+          <caret line="111" column="13" lean-forward="false" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+          <folding>
+            <element signature="n#Tab#1;n#tabs#0;n#TabPane#0;n#!!top" expanded="false" />
+            <element signature="n#Tab#2;n#tabs#0;n#TabPane#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controllers/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="139" column="94" lean-forward="false" selection-start-line="139" selection-start-column="94" selection-end-line="139" selection-end-column="94" />
+          <folding>
+            <element signature="class#2126:2791" expanded="false" />
+            <element signature="class#3121:3792" expanded="false" />
+            <element signature="class#4133:4809" expanded="false" />
+            <element signature="method#createCashierTableView#0;class#MainController#0" expanded="false" />
+            <element signature="method#createCashierNumPadsButtons#0;class#MainController#0" expanded="false" />
+            <element signature="method#createOtherDrawerButtons#0;class#MainController#0" expanded="false" />
+            <element signature="class#8529:8709" expanded="false" />
+            <element signature="e#8631#8632#0" expanded="true" />
+            <element signature="e#8698#8699#0" expanded="true" />
+            <element signature="class#9203:9987" expanded="false" />
+            <element signature="class#10236:11443" expanded="false" />
+            <element signature="method#addTabsImages#0;class#MainController#0" expanded="false" />
+            <element signature="method#createInsertGridPane#0;class#MainController#0" expanded="false" />
+            <element signature="class#15117:15350" expanded="false" />
+            <element signature="class#15585:15818" expanded="false" />
+            <element signature="e#16243#16244#0" expanded="true" />
+            <element signature="e#16287#16288#0" expanded="true" />
+            <element signature="method#isBarcodeCorrect#0;class#MainController#0" expanded="false" />
+            <element signature="method#isNumber#0;class#MainController#0" expanded="false" />
+            <element signature="method#addToBasket#0;class#MainController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PotidaiaProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

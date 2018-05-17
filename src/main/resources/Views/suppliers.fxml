@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.SuppliersController">
+   <children>
+      <BorderPane VBox.vgrow="ALWAYS">
+         <center>
+            
+         </center>
+         <center>
+            <VBox fx:id="suppliersCenterVBox" spacing="10.0" BorderPane.alignment="CENTER">
+               <children>
+                  <TableView fx:id="suppliersTable" />
+                  <TableView fx:id="latestInvoicesTable" />
+               </children>
+            </VBox>
+         </center>
+         <right>
+            <VBox BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="addSupplierButton" mnemonicParsing="false" prefHeight="80.0" prefWidth="190.0" text="Button" />
+                  <Button fx:id="addInvoicetoSupplierButton" mnemonicParsing="false" prefHeight="80.0" prefWidth="190.0" text="Button">
+                     <VBox.margin>
+                        <Insets top="5.0" />
+                     </VBox.margin>
+                  </Button>
+                  <Button fx:id="supplierPaymentButton" mnemonicParsing="false" prefHeight="80.0" prefWidth="190.0" text="Button">
+                     <VBox.margin>
+                        <Insets top="5.0" />
+                     </VBox.margin>
+                  </Button>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </VBox>
+         </right>
+      </BorderPane>
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</VBox>
